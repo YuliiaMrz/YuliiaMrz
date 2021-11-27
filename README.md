@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @YuliiaMrz
+- 👀 I’m interested in Game Development, GUI & HCI, Software Development
+- 🌱 I’m currently learning Computing Sciences
+- 💞️ I’m looking for a long-term internship starting from January/February
+- 📫 How to reach me juliamoroz11011@gmail.com
