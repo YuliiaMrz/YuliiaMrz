@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @YuliiaMrz
-- 👀 I’m interested in Game Development, GUI & HCI, Software Development
-- 🌱 I’m currently learning Computing Sciences
+- 👀 I’m interested in Data Analysis and Data Science
+- 🌱 I’m currently learning Computing Science
 - 📫 How to reach me juliamoroz11011@gmail.com
